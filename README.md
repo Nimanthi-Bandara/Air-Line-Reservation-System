@@ -2,7 +2,7 @@
 
 The Airline Reservation System is a standalone Java-based application designed to manage airline operations, including flight bookings, customer management, and reservations. This project focuses on delivering core functionalities using Java without reliance on external frameworks, making it a lightweight and portable solution. It demonstrates key object-oriented programming concepts and efficient file-based or in-memory data handling.
 
-Technology Stack
+Technology Stack  
 Programming Language: Java  
 Data Storage: File I/O (e.g., text files, JSON, or binary serialization)  
 User Interface: Command-line interface  
